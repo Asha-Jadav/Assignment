@@ -1,0 +1,17 @@
+(1) What is Software?
+Ans: Software is a set of instructions, data or programs used to operate computers and execute specific tasks.
+
+(2) What are the types of Applications?
+Ans: Types of computer applications
+Embedded Systems.
+Windows applications (also called 'Desktop applications')
+Web Applications.
+Web Services.
+Console applications.
+
+(3)What is programing?
+Ans: Programming is a set of Instruction.
+	Programming refers to a technological process for telling a computer which tasks to perform in order to solve problems. You can think of programming as a collaboration between humans and computers, in which humans create instructions for a computer to follow (code) in a language computers can understand.
+
+(4) What is Python?
+Ans: Python is an interpreted, object-oriented, high-level programming language with dynamic semantics.
